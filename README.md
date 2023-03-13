@@ -5,7 +5,7 @@ Python 3.6 or higher
 pandas library
 matplotlib library
 ## Installation
-Download the script files from the GitHub repository.
+Download the script files.
 Install the required libraries using pip: pip install pandas matplotlib
 ## Usage
 Place the maintenance data CSV file in the same directory as the script files.
